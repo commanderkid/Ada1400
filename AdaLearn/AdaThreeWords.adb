@@ -5,5 +5,5 @@ procedure AdaThreeWords is
 begin
     Put_Line ("One");
     Put_Line ("Two");
-    Put_Line ("Thee");
+    Put_Line ("Three");
 end AdaThreeWords;
