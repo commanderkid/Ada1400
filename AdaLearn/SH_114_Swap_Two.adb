@@ -1,7 +1,7 @@
 with Ada.Text_IO; use Ada.Text_IO;
 with Ada.Integer_Text_IO; use Ada.Integer_Text_IO;
 
-procedure SH_1_1_4_Swap_Two is
+procedure SH_114_Swap_Two is
 
     function Power(A : Integer; N : Integer) return Integer is
     begin
@@ -26,4 +26,4 @@ begin
         Put_Line ("Answer is " & Integer'Image(Ans));
     end;
     
-end SH_1_1_4_Swap_Two;
+end SH_114_Swap_Two;
